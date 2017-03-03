@@ -2,6 +2,7 @@ body {
 	background: url(https://hd.unsplash.com/photo-1456796148441-485386946471);
 	background-size: cover;
 	background-position: center;
+	background-attachment: fixed;
 	font-family: Lato;
 	color:white;
 }
